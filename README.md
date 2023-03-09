@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://fpdevelopers.online" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="NotRealFrancy_" />
  </a>
  <a href="https://dev.to/notrealfrancy_" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="NotRealFrancy_" />
  </a>
  <a href="https://twitter.com/fpdevelopers" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/notrealfrancy_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="NotRealFrancy_" />
  </a>
 </p>
 <br />
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ## Top Open Source
 <!--
-[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=notrealfrancy&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/notrealfrancy/web-projects)
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=notrealfrancy&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/notrealfrancy/al-folio)
-[![Me](https://github-readme-stats.vercel.app/api/pin/?username=notrealfrancy&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/notrealfrancy/notrealfrancy)
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=notrealfrancy&repo=web-projects&border_color=0000FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0000FF)](https://github.com/notrealfrancy/web-projects)
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=notrealfrancy&repo=al-folio&border_color=0000FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0000FF)](https://github.com/notrealfrancy/al-folio)
+[![Me](https://github-readme-stats.vercel.app/api/pin/?username=notrealfrancy&repo=alsiam&border_color=0000FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0000FF)](https://github.com/notrealfrancy/notrealfrancy)
 -->
 
 <br/>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/notrealfrancy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=notrealfrancy&theme=radical&border=7F3FBF&background=0D1117" alt="NotRealFrancy_'s GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=notrealfrancy&theme=radical&border=0000FF&background=0D1117" alt="NotRealFrancy_'s GitHub streak"/>
   </a>
 </p>
 
@@ -75,13 +75,13 @@ Here are some ideas to get you started:
 </p>
 
 <a> 
-    <a href="https://github.com/notrealfrancy"><img alt="NotRealFrancy_'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=notrealfrancy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/notrealfrancy"><img alt="NotRealFrancy_'s Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=notrealfrancy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/notrealfrancy"><img alt="NotRealFrancy_'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=notrealfrancy&show_icons=true&count_private=true&theme=react&border_color=0000FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/notrealfrancy"><img alt="NotRealFrancy_'s Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=notrealfrancy&langs_count=8&layout=compact&theme=react&border_color=0000FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![NotRealFrancy_'s Graph](https://github-readme-activity-graph.cyclic.app/graph?username=notrealfrancy&custom_title=NotRealFrancy_'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![NotRealFrancy_'s Graph](https://github-readme-activity-graph.cyclic.app/graph?username=notrealfrancy&custom_title=NotRealFrancy_'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0000FF&line=0000FF&point=0000FF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 - 💻 Java, Javascript, HTML, CSS, Python, LUA, PUG Developer
 - 📹 Content Creator
