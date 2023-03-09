@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 </a>
 
 
-![NotRealFrancy_'s Graph](https://github-readme-activity-graph.cyclic.app/graph?username=notrealfrancy&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![NotRealFrancy_'s Graph](https://github-readme-activity-graph.cyclic.app/graph?username=notrealfrancy&custom_title=NotRealFrancy_'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 - 💻 Java, Javascript, HTML, CSS, Python, LUA, PUG Developer
 - 📹 Content Creator
