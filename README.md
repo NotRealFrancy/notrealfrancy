@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NotRealFrancy/notrealfrancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 Java, Javascript, HTML, CSS, Python, LUA, PUG Developer
+- 📹 Content Creator
+- 📩 Commercials Only: +39 104 104 104 104
