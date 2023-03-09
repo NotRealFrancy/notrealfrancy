@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 💻 Java, Javascript, HTML, CSS, Python, LUA, PUG Developer
 - 📹 Content Creator
-- 📩 Commercials Only: +39 104 104 104 104
+- 📩 Commercials Only: +104 104 104 104 104
